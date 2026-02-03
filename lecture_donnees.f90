@@ -10,14 +10,19 @@ SUBROUTINE lecture_donnees(NC,Pext,T)
         READ(10, *) Pext
         READ(10, *) NC
 
-        IF (ALLOCATED(A)) DEALLOCATE(A, B, C, D, E, x)
-        ALLOCATE(A(NC), B(NC), C(NC), D(NC), E(NC), x(NC))
+        IF (ALLOCATED(A)) DEALLOCATE(A,B,C,D,E,x,CPvap,CPliq,Hvap,Teb)
+        ALLOCATE(A(NC), B(NC), C(NC), D(NC), E(NC), x(NC),CPvap(NC),CPliq(NC),Hvap(NC),Teb(NC))
 
         DO i = 1, NC
             READ(10, *) x(i), A(i), B(i), C(i), D(i), E(i)
         END DO
 
         READ(10, *) T
+
+        DO i = 1, NC
+            READ(10, *) CPvap(i),CPliq(i),Hvap(i),Teb(i)
+        END DO
+
     CLOSE(10)
 
 !  LECTURE DES DONNÉES FOURNIES(thermodat.txt)

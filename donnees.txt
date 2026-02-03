@@ -1,6 +1,9 @@
 101325						! Pression
 3						! NC
-0.2 146.43 -7792.3 -20.614 0.024578 1.0		! Proprietes Chlore
-0.3 81.768 -6876 -8.7078 7.1928E-06 2.0		! Proprietes Méthanol
-0.5 69.006 -5599.6 -7.0985 6.2237E-06 2.0	! Proprietes Acétone
-300.0							! Temperature
+0.2 146.43 -7792.3 -20.614 0.024578 1.0		! Proprietes Antoine Chlore
+0.3 81.768 -6876 -8.7078 7.1928E-06 2.0		! Proprietes Antonine Méthanol
+0.5 69.006 -5599.6 -7.0985 6.2237E-06 2.0	! Proprietes Antoine Acétone
+300.0						! Temperature
+6.89E04 1.17E05 2.95E07 334.33			! CPvap,CPliq,Hvap,Teb Chlore
+4.64E04 8.91E04 3.53E07 337.85			! CPvap,CPliq,Hvap,Teb Méthanol
+8.05E04 1.34E05 2.96E07 329.44			! CPvap,CPliq,Hvap,Teb Acétone
