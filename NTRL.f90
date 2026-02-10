@@ -66,7 +66,7 @@ SUBROUTINE NTRL(NC,T)
             LNGAMMA(i)=LNGAMMA(i)+((x(j)*G(i,j))/prodGX(j))*(TAU(i,j)-(prodTAUGX(j)/prodGX(j)))
         END DO
             GAMMA(i)=EXP(LNGAMMA(i))
-            PRINT *,GAMMA(i)
+             WRITE(*, '(F10.4)') GAMMA(i)
     END DO
 
     RETURN
