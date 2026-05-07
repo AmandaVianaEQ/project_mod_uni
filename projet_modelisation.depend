@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1776763240 source:c:\users\mlbuchoa\documents\fortran\projet_modelisation\main.f90
+
+1776760376 source:c:\users\mlbuchoa\documents\fortran\projet_modelisation\lecture_donnees.f90
+
+1776760922 source:c:\users\mlbuchoa\documents\fortran\projet_modelisation\dfdx.f90
+
+1776760907 source:c:\users\mlbuchoa\documents\fortran\projet_modelisation\dfdxdot.f90
+
+1776764377 source:c:\users\mlbuchoa\documents\fortran\projet_modelisation\fx.f90
+
+1776763036 source:c:\users\mlbuchoa\documents\fortran\projet_modelisation\gex.f90
+
+889028980 source:c:\users\mlbuchoa\documents\fortran\projet_modelisation\disco101.f
+
+888830106 source:c:\users\mlbuchoa\documents\fortran\projet_modelisation\miniblas.f
+
+888830106 source:c:\users\mlbuchoa\documents\fortran\projet_modelisation\miniumf.f
+
+1776760922 source:c:\users\mlbuchoa\documents\fortran\modelisation21_04\dfdx.f90
+
+1776760907 source:c:\users\mlbuchoa\documents\fortran\modelisation21_04\dfdxdot.f90
+
+889028980 source:c:\users\mlbuchoa\documents\fortran\modelisation21_04\disco101.f
+
+1776766044 source:c:\users\mlbuchoa\documents\fortran\modelisation21_04\fx.f90
+
+1776763036 source:c:\users\mlbuchoa\documents\fortran\modelisation21_04\gex.f90
+
+1776760376 source:c:\users\mlbuchoa\documents\fortran\modelisation21_04\lecture_donnees.f90
+
+1776765916 source:c:\users\mlbuchoa\documents\fortran\modelisation21_04\main.f90
+
+888830106 source:c:\users\mlbuchoa\documents\fortran\modelisation21_04\miniblas.f
+
+888830106 source:c:\users\mlbuchoa\documents\fortran\modelisation21_04\miniumf.f
+
+1776760924 source:c:\users\55849\onedrive\documentos camila\fortran\modelisation21_04\dfdx.f90
+
+1776760908 source:c:\users\55849\onedrive\documentos camila\fortran\modelisation21_04\dfdxdot.f90
+
+889025380 source:c:\users\55849\onedrive\documentos camila\fortran\modelisation21_04\disco101.f
+
+1777665992 source:c:\users\55849\onedrive\documentos camila\fortran\modelisation21_04\gex.f90
+
+1777711810 source:c:\users\55849\onedrive\documentos camila\fortran\modelisation21_04\lecture_donnees.f90
+
+888826506 source:c:\users\55849\onedrive\documentos camila\fortran\modelisation21_04\miniblas.f
+
+888826506 source:c:\users\55849\onedrive\documentos camila\fortran\modelisation21_04\miniumf.f
+
+1777849019 source:c:\users\55849\onedrive\documentos camila\fortran\modelisation21_04\fx.f90
+
+1777849019 source:c:\users\55849\onedrive\documentos camila\fortran\modelisation21_04\main.f90
+
+1777877108 source:c:\users\55849\onedrive\documentos camila\fortran\modelisation21_04\mod_donnees.f90
+
